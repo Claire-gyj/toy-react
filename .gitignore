@@ -1,0 +1,18 @@
+# editor
+.idea
+.vscode
+
+# production
+dist
+build
+node_modules
+
+# caches
+.DS_Store
+
+# lock files
+yarn.lock
+package-lock.json
+
+# git
+!.gitkeep
